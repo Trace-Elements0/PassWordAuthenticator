@@ -1,0 +1,2 @@
+# PassWordAuthenticator
+The goal of this project was to build a GUI Console App that allowed the user 3 options: Create a new account, Authenticate an old one, or Exit. Initially I had a really hard time creating the flow of execution, but it may have been I had been at my desk for too long because I took a long break, came back and did well! Looking back I may have changed a few things but overall really liked implementing generic collections. 
